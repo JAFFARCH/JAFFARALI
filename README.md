@@ -1,3 +1,6 @@
+![logo](https://github.com/JAFFARCH/JAFFARALI/blob/main/JAFFAR.jpg)
+
+
 <h1 align="center">Hi 👋, I'm jaffar ali</h1>
 <h3 align="center">A passionate full stack AI developer</h3>
 <img align="right" alt="coding_by_jawad" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
